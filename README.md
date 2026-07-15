@@ -15,7 +15,7 @@ A simple web application that validates three sides and identifies whether the t
 ## Preview
 
 <p align="center">
-  <img src="assets/preview.PNG" alt="Triangle Analyzer Preview" width="90%">
+  <img src="assets/preview.PNG" alt="Triangle Analyzer Preview" width="50%">
 </p>
 
 ## Features
