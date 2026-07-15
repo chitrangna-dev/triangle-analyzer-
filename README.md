@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="assets/mobile.PNG" alt="Triangle Analyzer Banner" width="100%">
-</p>
-
 <h1 align="center">Triangle Analyzer</h1>
 
 <p align="center">
