@@ -1,5 +1,4 @@
-# triangle-analyzer-
-A modern Triangle Type Checker built with HTML, CSS &amp; JavaScript.
+
 <p align="center">
   <img src="assets/banner.png" alt="Triangle Analyzer Banner" width="100%">
 </p>
