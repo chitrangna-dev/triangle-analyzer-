@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" alt="Triangle Analyzer Banner" width="100%">
+  <img src="assets/mobile.PNG" alt="Triangle Analyzer Banner" width="100%">
 </p>
 
 <h1 align="center">Triangle Analyzer</h1>
@@ -10,7 +10,7 @@ A simple web application that validates three sides and identifies whether the t
 </p>
 
 <p align="center">
-  <a href="https://chitrangna-dev.github.io/triangle-analyzer/">Live Demo</a> •
+  <a href="https://playwithangle.netlify.app/">Live Demo</a> •
   <a href="https://github.com/chitrangna-dev/triangle-analyzer">Source Code</a>
 </p>
 
