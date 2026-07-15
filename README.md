@@ -18,16 +18,6 @@ A simple web application that validates three sides and identifies whether the t
   <img src="assets/preview.PNG" alt="Triangle Analyzer Preview" width="90%">
 </p>
 
----
-
-## Demo
-
-<p align="center">
-  <img src="assets/demo.gif" alt="Triangle Analyzer Demo" width="90%">
-</p>
-
----
-
 ## Features
 
 * Validates whether the entered sides can form a triangle.
@@ -52,7 +42,7 @@ A simple web application that validates three sides and identifies whether the t
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/triangle-analyzer.git
+git clone https://github.com/chitrangna-dev/triangle-analyzer.git
 ```
 
 Move into the project folder:
