@@ -9,7 +9,7 @@ A simple web application that takes three angles and tells you what kind of tria
 </p>
 
 <p align="center">
-  <strong><a href="(https://playwithangle.netlify.app/)">🌐 Live Demo</a></strong>
+  <strong><a href="https://playwithangle.netlify.app/">🌐 Live Demo</a></strong>
 </p>
 
 ---
