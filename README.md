@@ -80,9 +80,10 @@ I built this while learning JavaScript to get more comfortable with conditional 
 ##  Author
 
 **Chitrangna**
-Passionate about building web applications and improving my JavaScript skills through hands-on projects.
-Feel free to explore the project or share your feedback.
 
+Passionate about building web applications and improving my JavaScript skills through hands-on projects.
+
+Feel free to explore the project or share your feedback.
 ---
 
 ##  License
