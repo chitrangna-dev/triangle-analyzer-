@@ -4,11 +4,11 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-A small web app that takes three angles and tells you what kind of triangle they form. Built to get more comfortable with conditional logic and form validation in vanilla JS.
+A responsive web application that classifies triangles based on three user-entered angles. Built with HTML, CSS, and JavaScript to practice conditional logic, input validation, and DOM manipulation.
 
 ![preview](assets/preview.PNG)
 
-**🌐 Live Demo:** [Triangle Type Checker](https://playwithangle.netlify.app/)
+**🌐 Live Demo:** [Triangle Type Checker](https://your-deployment-link.netlify.app/)
 
 ## Features
 
