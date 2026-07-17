@@ -1,76 +1,68 @@
+# Triangle Type Checker
 
-<h1 align="center">Triangle Analyzer</h1>
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-<p align="center">
-A simple web application that validates three sides and identifies whether the triangle is <b>Equilateral</b>, <b>Isosceles</b>, or <b>Scalene</b>. Built with HTML, CSS, and JavaScript while practicing core programming logic.
-</p>
+A small web app that takes three angles and tells you what kind of triangle they form. Built to get more comfortable with conditional logic and form validation in vanilla JS.
 
-<p align="center">
-  <a href="https://playwithangle.netlify.app/">Live Demo</a> •
-  <a href="https://github.com/chitrangna-dev/triangle-analyzer">Source Code</a>
-</p>
+![preview](assets/preview.PNG)
 
----
-
-## Preview
-
-<p align="center">
-  <img src="assets/preview.PNG" alt="Triangle Analyzer Preview" width="50%">
-</p>
+**🌐 Live Demo:** [Triangle Type Checker](https://playwithangle.netlify.app/)
 
 ## Features
 
-* Validates whether the entered sides can form a triangle.
-* Classifies triangles as Equilateral, Isosceles, or Scalene.
-* Displays clear messages for invalid inputs.
-* Responsive interface for desktop and mobile devices.
-* Instant result without reloading the page.
-* Clean and beginner-friendly JavaScript implementation.
+- Takes three angles as input and checks if they can form a valid triangle (must add up to 180°)
+- Classifies the triangle as Equilateral, Right, Obtuse, Isosceles, or Scalene
+- Alerts on empty fields or invalid angle values
+- Reset button to clear inputs and result
 
----
+## Tech Stack
 
-## Built With
+HTML5, CSS3, JavaScript (ES6)
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+## Project Structure
 
----
-
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/chitrangna-dev/triangle-analyzer.git
+```
+Triangle-Type-Checker/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
 ```
 
-Move into the project folder:
+## Running Locally
 
 ```bash
-cd triangle-analyzer
+git clone https://github.com/chitrangna-dev/Triangle-Type-Checker.git
+cd Triangle-Type-Checker
 ```
 
 Open `index.html` in your preferred web browser.
 
----
+## How It Works
 
-## Why I Built This
+1. User enters three angles
+2. The app checks that none of the fields are empty and that the angles add up to exactly 180°
+3. If valid, it goes through a set of conditions — equilateral first, then right angle, then obtuse, then isosceles, and scalene as the fallback
+4. Result is shown on the page instantly, no reload
 
-This project was created to strengthen my understanding of JavaScript conditionals, input validation, and DOM manipulation while building a clean and responsive user interface.
+## What I Learned
 
----
+While building this, I practiced:
+- Validating form input before running any logic on it
+- Using `if / else if` chains to classify data based on multiple overlapping conditions
+- Working with the angle sum property of triangles as a validation rule
+- Resetting form state and UI text with a single event listener
 
-## Author
+## Possible Improvements
 
-**Chitrangna**
+- Add an Acute triangle case (currently a non-equilateral acute triangle just falls into Scalene/Isosceles without being labeled acute)
+- Replace `alert()` with inline error messages for a smoother UX
+- Add input restrictions so only positive numbers can be typed in the first place
 
-Learning Web Development one project at a time.
+## Connect
 
-If you have suggestions or feedback, feel free to open an issue or submit a pull request.
-
----
-
-## License
-
-This project is available under the MIT License.
+- GitHub: [chitrangna-dev](https://github.com/chitrangna-dev)
+- LinkedIn: []
