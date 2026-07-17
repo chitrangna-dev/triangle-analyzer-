@@ -9,7 +9,7 @@ A simple web application that takes three angles and tells you what kind of tria
 </p>
 
 <p align="center">
-  <strong><a href="https://your-deployment-link.netlify.app/">🌐 Live Demo</a></strong>
+  <strong><a href="(https://playwithangle.netlify.app/)">🌐 Live Demo</a></strong>
 </p>
 
 ---
@@ -82,8 +82,8 @@ I built this while learning JavaScript to get more comfortable with conditional 
 **Chitrangna**
 
 Passionate about building web applications and improving my JavaScript skills through hands-on projects.
-
 Feel free to explore the project or share your feedback.
+
 ---
 
 ##  License
